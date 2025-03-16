@@ -1,0 +1,109 @@
+ {
+        "projects" : {
+            "project_title_one" : "RECENT",
+            "project_title_two": "PROJECTS",
+            "project_data" : [
+            
+                {   
+                    "id" : 1,
+                    "project_name" : "Blockto App",
+                    "short_description" : "Blockto App",
+                    "project_desciption" : "Blockto is a mock cryptocurrency trading platform where users can practice trading without investing real money. The app provides users with real-time cryptocurrency charts, blockchain news, and a paper trading experience to sharpen their trading skills.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/CodeCrypt05/Blockto"
+                        },
+                        {
+                            "origin" : "apk",
+                            "live" : "https://shorturl.at/DdWIP"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" :[
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_01.png",
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_02.png",
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_03.png"
+                    ]
+                },
+
+                  {   
+                    "id" : 2,
+                    "project_name" : "Spotify Clone",
+                    "short_description" : "Spotify Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/vaibhav-mypcot/spotify"
+                        },
+                        {
+                            "origin" : "apk",
+                            "live" : "https://shorturl.at/DdWIP"
+                        }   
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : [ 
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/spotify_banner_01.png"
+                    ]
+                },
+
+                  {   
+                    "id" : 3,
+                    "project_name" : "Whatsapp Clone",
+                    "short_description" : "Whatsapp Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/vaibhav-mypcot/whatsapp-clone-app"
+                        },
+                        {
+                            "origin" : "apk",
+                            "live" : "https://shorturl.at/DdWIP"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : [ 
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/whatsapp_banner_01.png"
+                    ]
+                },
+
+                  {   
+                    "id" : 4,
+                    "project_name" : "Medical App",
+                    "short_description" : "Whatsapp Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        
+                        {
+                            "origin" : "apk",
+                            "live" : "https://shorturl.at/DdWIP"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : [ 
+                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/medicals_banner_01.png"
+                    ]
+                }
+                
+            ] 
+        }
+      
+}

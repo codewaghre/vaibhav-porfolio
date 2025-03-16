@@ -1,0 +1,25 @@
+.blog-des {
+
+    width: 100%;
+
+
+    >p {
+        color: #988E8E;
+    }
+
+    >h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    >h1:hover {
+        color: white;
+    }
+}
+
+
+@media (max-width: 1335px) {
+    .blog-container {
+        // background-color: rgba(0, 255, 68, 0.329);
+    }
+}

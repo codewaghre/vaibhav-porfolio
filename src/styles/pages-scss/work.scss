@@ -1,0 +1,59 @@
+.ul {
+    margin-top: 10px;
+
+
+    >li {
+        // margin: 10px;
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+
+    >li:hover {
+        background-color: #1C1A19;
+    }
+}
+
+.work-timeline {
+    margin-bottom: 100px;
+    padding-inline: 10px;
+}
+
+.hero {
+
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+.hero-des {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 50px;
+
+}
+
+
+.radius {
+    border-radius: 50%;
+}
+
+
+.custom-date {
+    color: #988E8E;
+    /* Default color */
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease-in-out;
+    /* Smooth transition */
+}
+
+.custom-date.hovered {
+    color: orange;
+    /* Change to orange on hover */
+}
+
+.custom-dates:hover {
+    color: orange;
+}

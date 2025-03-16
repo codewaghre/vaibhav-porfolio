@@ -1,0 +1,167 @@
+.form-container {
+    // background-color: rgba(255, 0, 0, 0.348);
+}
+
+input:focus,
+textarea:focus {
+    border: 0.5px solid #ff6200;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+
+}
+
+.form {
+    // background-color: rgba(0, 255, 255, 0.344);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+
+    >form {
+        width: 800px;
+        padding-top: 10px;
+
+    }
+}
+
+.bg {
+    background-color: #353334;
+    border-radius: 8px;
+    color: white;
+    padding-inline: 20px;
+    padding-block: 10px;
+    margin-bottom: 20px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+
+    >label {
+        font-size: 14px;
+        font-weight: 500;
+        color: #ffffff;
+    }
+
+    >textarea {
+        height: 150px;
+    }
+
+
+}
+
+.name-email {
+    display: flex;
+    column-gap: 30px;
+
+    >div {
+        width: 600px;
+    }
+}
+
+
+.submit {
+
+    background-color: #ff6200a0;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+
+    >button {
+        width: 100%;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 600;
+
+    }
+}
+
+.submit:hover {
+    background-color: #ff6200;
+}
+
+
+@media (max-width: 1335px) {
+    .form-container {
+        // background-color: rgba(76, 0, 255, 0.348);
+    }
+
+    .form {
+        // background-color: rgba(0, 255, 255, 0.344);
+        display: flex;
+        justify-content: center;
+
+        >form {
+            width: 600px;
+            padding-top: 10px;
+        }
+    }
+
+    .name-email {
+        display: flex;
+        column-gap: 30px;
+
+
+        >div {
+            width: 300px;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .form-container {
+        // background-color: rgba(255, 174, 0, 0.348);
+    }
+
+    .form {
+        // background-color: rgba(0, 255, 255, 0.344);
+        display: flex;
+        justify-content: center;
+
+        >form {
+            width: 300px;
+            padding-top: 10px;
+        }
+    }
+
+    .name-email {
+        display: flex;
+
+        flex-direction: column;
+        column-gap: 30px;
+
+
+        >div {
+            width: 300px;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+
+    .form-container {
+        // background-color: rgba(47, 255, 0, 0.348);
+    }
+
+    .form {
+        // background-color: rgba(0, 255, 255, 0.344);
+        display: flex;
+        justify-content: center;
+
+        >form {
+            width: 300px;
+            padding-top: 10px;
+        }
+    }
+
+    .name-email {
+        display: flex;
+
+        flex-direction: column;
+        column-gap: 30px;
+
+
+        >div {
+            width: 300px;
+        }
+    }
+}

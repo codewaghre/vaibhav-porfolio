@@ -1,0 +1,34 @@
+{
+        "my_work" : {
+            "work_title_one" : "ABOUT MY",
+            "work_title_two": "WORK",
+           "works" : [
+            {   
+                "id" : 0,
+                "position" : "Software Developer",
+                "company_name" : "Mypcot Inotech",
+                "roles_and_responsibliies" : [ 
+                     "Developed cross-platform mobile applications using Flutter framework, leveraging Dart programming language.",
+                     "Worked closely with UI/UX designers to translate design wireframes into high-quality, interactive user interfaces.",
+                     "Collaborated with backend developers to design and implement API endpoints for seamless data exchange.",
+                     "Optimized app performance by identifying and resolving bottlenecks, resulting in faster loading times and improved user experience.",
+                     "Actively participated in agile development processes, including daily stand-ups, sprint planning, and retrospectives.",
+                     "Stayed updated with Flutter's latest features, best practices, and community libraries to incorporate them into projects for enhanced functionality."
+                ],
+                "experience" : "2023 - Current"
+            },
+            {   
+                "id" : 1,
+                "position" : "Android Developer Intern",
+                "company_name" : "Maxgen Technologies Pvt. Ltd",
+                "roles_and_responsibliies" : [ 
+                     "Assisted in designing and implementing user-friendly UI layouts following Material Design guidelines.",
+                     "Debugged and resolved issues to improve app stability and performance.",
+                     "Collaborated with senior developers to understand project requirements and deliver optimized solutions.",
+                     "Gained hands-on experience in Android development tools like Android Studio and Firebase."
+                ],
+                "experience" : "2020 - 2020"
+            }
+           ]
+        }
+    }
