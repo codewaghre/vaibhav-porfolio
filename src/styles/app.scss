@@ -1,0 +1,214 @@
+// Define font variables
+$font-heading: 'Poppins', 'Poppins Placeholder', sans-serif;
+$font-poppins: 'Poppins', sans-serif;
+
+$heading-one : #FFFFFF;
+$heading-two: #353334;
+$paragraph: #998f8f;
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: $font-poppins;
+}
+
+body {
+    font-family: $font-poppins;
+    background-color: #151312;
+    // position: relative;
+    // overflow-y: hidden;
+    // overflow: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+@import "./pages-scss/home.scss";
+@import "./pages-scss/project.scss";
+@import "./pages-scss/work.scss";
+@import "./pages-scss/tool-one.scss";
+@import "./pages-scss/tool-two.scss";
+@import "./pages-scss/blog.scss";
+@import "./pages-scss/form.scss";
+@import "./pages-scss/project-details.scss";
+
+
+
+.project {
+    // background-color: rgba(165, 42, 42, 0.51);
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+    /* To position buttons */
+}
+
+.project-cards {
+    overflow: hidden;
+    // background-color: rgba(255, 192, 203, 0.403);
+    padding-inline: 50px;
+    padding-block: 50px;
+    overflow: hidden;
+    // margin-left: 10px;
+}
+
+/* Navigation Buttons */
+.custom-prev,
+.custom-next {
+    position: absolute;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: background 0.3s ease-in-out;
+    z-index: 10;
+}
+
+.custom-prev {
+    left: -50px;
+}
+
+.custom-next {
+    right: -50px;
+}
+
+.custom-prev:hover,
+.custom-next:hover {
+    background: rgba(158, 158, 158, 0.16);
+}
+
+/* Card Styling */
+.card-box {
+    background: #151312d1;
+    border-radius: 20px;
+    margin-inline: 10px;
+    text-align: center;
+    border: 1px solid #988e8e40;
+    transition: transform 0.3s ease-in-out;
+    overflow: hidden;
+    width: 280px;
+
+}
+
+
+
+.img-box {
+    // width: 300px;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.img-box img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.card-box img:hover {
+    transform: scale(1.2);
+}
+
+.blog-des {
+    padding: 10px;
+}
+
+.blog-des h1 {
+    text-align: left;
+    font-size: 22px;
+    color: #988E8E;
+}
+
+.blog-des p {
+    font-size: 14px;
+    color: #988E8E;
+}
+
+.slick-dots {
+    position: relative !important;
+    margin-top: 10px !important;
+    color: #988E8E;
+}
+
+/* Default dot color */
+.slick-dots li button:before {
+    color: #ccc !important;
+    /* Change to your desired default color */
+    font-size: 20px;
+    opacity: 1;
+}
+
+/* Active dot color */
+.slick-dots li.slick-active button:before {
+    color: #988E8E !important;
+    /* Change to your desired active color */
+}
+
+@media (max-width: 450px) {
+
+    .project {
+        // background-color: rgba(165, 42, 42, 0.51);
+        width: 100%;
+        margin: auto;
+        padding: 5px;
+        position: relative;
+
+        /* To position buttons */
+    }
+
+    .project-cards {
+        overflow: hidden;
+        // background-color: rgba(255, 192, 203, 0.403);
+        padding-inline: 50px;
+        padding-block: 50px;
+        overflow: hidden;
+        // margin-left: 10px;
+    }
+
+    /* Navigation Buttons */
+    .custom-prev,
+    .custom-next {
+        position: absolute;
+        top: 50%;
+        width: 30px;
+        height: 30px;
+        transform: translateY(-50%);
+        background: rgba(0, 0, 0, 0.6);
+        border: none;
+        color: white;
+        padding: 1px 10px;
+        font-size: 12px;
+        cursor: pointer;
+        border-radius: 50%;
+        transition: background 0.3s ease-in-out;
+        z-index: 10;
+    }
+
+    .custom-prev {
+        left: -30px;
+    }
+
+    .custom-next {
+        right: -30px;
+    }
+}

@@ -1,0 +1,262 @@
+[
+    {
+        "home" : {
+            "card_details" : {
+                "img" : "",
+                "name" : "Vaibhav Waghre",
+                "description" : "A Software Engineer who has developed countless innovative solutions.",
+                "socials" : [
+                    {
+                        "icon" : "",
+                        "name" : "Instagram",
+                        "link" : ""
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Linkdin",
+                        "link" : ""
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Twitter",
+                        "link" : ""
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Github",
+                        "link" : ""
+                    }
+                ]
+            },
+            "designation" : "SOFTWARE DEVELOPER",
+            "about" : "Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.",
+            "years_of_expirence" : 12,
+            "completed_project" : 10
+        }
+    },
+    {
+        "projects" : {
+            "section_title" : "RECENT PROJECTS",
+            "project_data" : [
+                {   
+                    "id" : 0,
+                    "project_name" : "Whatsapp Clone",
+                    "short_description" : "Whatsapp Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "live",
+                            "live" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "youtube",
+                            "youtube" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : {
+                        "img1" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img2" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img3" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img4" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    }
+                },
+                {   
+                    "id" : 1,
+                    "project_name" : "Whatsapp Clone",
+                    "short_description" : "Whatsapp Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "live",
+                            "live" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "youtube",
+                            "youtube" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : {
+                        "img1" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img2" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img3" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img4" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    }
+                },
+                {   
+                    "id" : 2,
+                    "project_name" : "Whatsapp Clone",
+                    "short_description" : "Whatsapp Clone",
+                    "project_desciption" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                    "project_links" : [
+                        {   
+                            "origin" : "git",
+                            "link" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "live",
+                            "live" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        },
+                        {
+                            "origin" : "youtube",
+                            "youtube" : "https://github.com/billimarie/prosecutor-database/issues/9"
+                        }
+                    ],
+                    "tech_tools" : {
+                        "dart" : "Dart",
+                        "flutter" : "Flutter",
+                        "firebase" : "Firebase"
+                    },
+                    "banners" : {
+                        "img1" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img2" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img3" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                        "img4" : "https://images.unsplash.com/photo-1738831920700-ab556b543b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    }
+                }
+            ] 
+        }
+    },
+    {
+        "my_work" : {
+            "section_title" : "ABOUT MY WORK",
+           "works" : [
+            {   
+                "id" : 0,
+                "position" : "Software Developer",
+                "company_name" : "Mypcot Inotech",
+                "roles_and_responsibliies" : {
+                    "role1" : "Worked on various projects related to software development.",
+                    "role2" : "Built robust and efficient applications using Dart and Flutter.",
+                    "role3" : "Collaborated with developers and designers to create visually appealing and intuitive interfaces."
+                },
+                "experience" : "2020 - 2022"
+            },
+            {   
+                "id" : 1,
+                "position" : "Software Developer",
+                "company_name" : "Mypcot Inotech",
+                "roles_and_responsibliies" : {
+                    "role1" : "Worked on various projects related to software development.",
+                    "role2" : "Built robust and efficient applications using Dart and Flutter.",
+                    "role3" : "Collaborated with developers and designers to create visually appealing and intuitive interfaces."
+                },
+                "experience" : "2020 - 2022"
+            }
+           ]
+        }
+    },
+    {
+        "tech_tools" : {
+            "section_title" : "TECH TOOLS",
+            "tools" : [
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Flutter",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Java",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "XML",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                },
+                {
+                    "name" : "Dart",
+                    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dart_programming_language_logo.svg/200px-Dart_programming_language_logo.svg.png"
+                }
+            ]
+        }
+    },
+    {
+        "blogs" : {
+            "title" : "CREATIVE BLOGS",
+            "blogs_contents" : [
+                {
+                    "id" : 0,
+                    "title" : "Top 10 Best Whatsapp Clone Apps",
+                    "date" : "Mar 15, 2024",
+                    "banner" : "https://framerusercontent.com/images/ljDxCenLUqxiPjBcxCsK7cBEmU.png",
+                    "link" : "https://medium.com/@vaibha30/jenkins-with-flutter-building-continuous-integration-pipelines-part-1-4d278a537fa0"
+                },
+                {
+                    "id" : 1,
+                    "title" : "Top 10 Best Whatsapp Clone Apps",
+                    "date" : "Mar 15, 2024",
+                    "banner" : "https://framerusercontent.com/images/ljDxCenLUqxiPjBcxCsK7cBEmU.png",
+                    "link" : "https://medium.com/@vaibha30/jenkins-with-flutter-building-continuous-integration-pipelines-part-1-4d278a537fa0"
+                },
+                {
+                    "id" : 2,
+                    "title" : "Top 10 Best Whatsapp Clone Apps",
+                    "date" : "Mar 15, 2024",
+                    "banner" : "https://framerusercontent.com/images/ljDxCenLUqxiPjBcxCsK7cBEmU.png",
+                    "link" : "https://medium.com/@vaibha30/jenkins-with-flutter-building-continuous-integration-pipelines-part-1-4d278a537fa0"
+                }
+            ]
+        }
+    }
+
+]

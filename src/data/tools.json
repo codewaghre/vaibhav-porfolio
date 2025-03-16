@@ -1,0 +1,60 @@
+ {
+        "tech_tools" : {
+            "tools_title_one" : "TECH ",
+            "tools_title_two" : "TOOLS",
+            "tools" : [
+                {
+                    "name" : "Dart",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/dart.svg"
+                },
+                {
+                    "name" : "Java",
+                    "logo" : "https://www.svgrepo.com/show/452234/java.svg"
+                },
+                {
+                    "name" : "JS",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg"
+                },
+                {
+                    "name" : "C",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg"
+                },
+                {
+                    "name" : "C++",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg"
+                },
+                {
+                    "name" : "Flutter",
+                    "logo" : "https://www.svgrepo.com/show/349363/flutter.svg"
+                },
+                {
+                    "name" : "HTML",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg"
+                },
+                {
+                    "name" : "CSS",
+                    "logo" : "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg"
+                },
+                {
+                    "name" : "Github",
+                    "logo" : "https://www.svgrepo.com/show/439171/github.svg"
+                },
+                {
+                    "name" : "Git",
+                    "logo" : "https://www.svgrepo.com/show/452210/git.svg"
+                },
+                {
+                    "name" : "Postman",
+                    "logo" : "https://www.svgrepo.com/show/354202/postman-icon.svg"
+                },
+                {
+                    "name" : "Figma",
+                    "logo" : "https://www.svgrepo.com/show/452202/figma.svg"
+                },
+                {
+                    "name" : "AdobeXd",
+                    "logo" : "https://www.svgrepo.com/show/452151/adobe-xd.svg"
+                }
+            ]
+        }
+    }

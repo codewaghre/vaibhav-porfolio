@@ -1,0 +1,38 @@
+
+    {
+        "home" : {
+            "card_details" : {
+                "img" : "../screenshots/projects/profile_banner.jpg",
+                "name" : "Vaibhav Waghre",
+                "description" : "A Software Engineer who has developed countless innovative solutions.",
+                "socials" : [
+                    {
+                        "icon" : "",
+                        "name" : "Instagram",
+                        "link" : ""
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Linkedin",
+                        "link" : "https://www.linkedin.com/in/vaibhav-waghre-a485081a3/"
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Twitter",
+                        "link" : ""
+                    },
+                    {
+                        "icon" : "",
+                        "name" : "Github",
+                        "link" : "https://github.com/CodeCrypt05"
+                    }
+                ]
+            },
+            "pagetitleone" : "SOFTWARE",
+            "pagetitletwo" : "DEVELOPER",
+            "about" : "Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.",
+            "years_of_expirence" : 1.6,
+            "completed_project" : 10,
+            "Worldwide_client" : 0
+        }
+    }
