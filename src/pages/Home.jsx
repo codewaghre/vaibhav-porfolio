@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import profile from "../../public/profile-pic.jpg"
+
 import img1 from '../../src/assets/img-3.svg'
 import img2 from '../../src/assets/img-2.svg'
 
+import profileBanner from '../../screenshots/projects/profile_banner.jpg';
 import { FaArrowRightLong } from "react-icons/fa6";
 import { FaFileAlt } from "react-icons/fa";
 
@@ -22,6 +23,10 @@ import { downloadFile } from '@/utils/useDownloadFile';
 function Home() {
 
     const { img, name, description } = homeData.home.card_details
+    console.log(img);
+    console.log(profileBanner);
+
+
     const { pagetitleone, pagetitletwo, about, years_of_expirence, completed_project, Worldwide_client } = homeData.home
 
     const handleDownload = () => {
@@ -49,7 +54,7 @@ function Home() {
 
                                 <img className='style-icon-2' src={img2} />
                                 <div className='profile'>
-                                    <img src={img ? img : profile} alt='profle pic' />
+                                    <img src={img ? img : profileBanner} alt='profle pic' />
                                 </div>
 
                                 <div className='profile-name'>
