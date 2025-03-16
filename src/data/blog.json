@@ -7,21 +7,21 @@
                     "id" : 0,
                     "title" : "Jenkins with Flutter: Building Continuous Integration Pipelines -Part 1",
                     "date" : "Nov 2, 2024",
-                    "banner" : "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/articles/article1.png",
+                    "banner" : "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/articles/article1.png?raw=true",
                     "link" : "https://medium.com/@vaibha30/jenkins-with-flutter-building-continuous-integration-pipelines-part-1-4d278a537fa0"
                 },
                 {
                     "id" : 1,
                     "title" : "Automated App Distribution in Jenkins with Firebase for Flutter - Part 2",
                     "date" : "Nov 4, 2024",
-                    "banner" : "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/articles/article2.png",
+                    "banner" : "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/articles/article2.png?raw=true",
                     "link" : "https://medium.com/@vaibha30/automated-app-distribution-in-jenkins-with-firebase-for-flutter-part-2-7f39fc1d2e5f"
                 },
                 {
                     "id" : 2,
                     "title" : "Flutter Localization Made Easy: Using BLoC, Hydrated BLoC, & SharedPreferences",
                     "date" : "Feb 15, 2025",
-                    "banner" : "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/articles/article3.png",
+                    "banner" : "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/articles/article3.png?raw=true",
                     "link" : "https://medium.com/@vaibha30/flutter-localization-made-easy-using-bloc-hydrated-bloc-sharedpreferences-eb7de51649ae"
                 }
             ]
