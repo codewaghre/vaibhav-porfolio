@@ -23,8 +23,7 @@ import { downloadFile } from '@/utils/useDownloadFile';
 function Home() {
 
     const { img, name, description } = homeData.home.card_details
-    console.log(img);
-    console.log(profileBanner);
+
 
 
     const { pagetitleone, pagetitletwo, about, years_of_expirence, completed_project, Worldwide_client } = homeData.home

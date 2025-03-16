@@ -2,7 +2,7 @@
     {
         "home" : {
             "card_details" : {
-                "img" : "/screenshots/projects/profile_banner.jpg",
+                "img" : "https://raw.githubusercontent.com/codewaghre/vaibhav-porfolio/refs/heads/main/screenshots/projects/profile_banner.jpg",
                 "name" : "Vaibhav Waghre",
                 "description" : "A Software Engineer who has developed countless innovative solutions.",
                 "socials" : [
