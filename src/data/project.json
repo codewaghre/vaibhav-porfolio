@@ -25,9 +25,9 @@
                         "firebase" : "Firebase"
                     },
                     "banners" :[
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_01.png",
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_02.png",
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/blockto_banner_03.png"
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/blockto_banner_01.png?raw=true",
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/blockto_banner_02.png?raw=true",
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/blockto_banner_03.png?raw=true"
                     ]
                 },
 
@@ -52,7 +52,7 @@
                         "firebase" : "Firebase"
                     },
                     "banners" : [ 
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/spotify_banner_01.png"
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/spotify_banner_01.png?raw=true"
                     ]
                 },
 
@@ -77,7 +77,7 @@
                         "firebase" : "Firebase"
                     },
                     "banners" : [ 
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/whatsapp_banner_01.png"
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/whatsapp_banner_01.png?raw=true"
                     ]
                 },
 
@@ -99,7 +99,7 @@
                         "firebase" : "Firebase"
                     },
                     "banners" : [ 
-                        "https://raw.githubusercontent.com/codewaghre/Protfolio/refs/heads/vaibhav/screenshots/projects/medicals_banner_01.png"
+                        "https://github.com/codewaghre/vaibhav-porfolio/blob/main/screenshots/projects/medicals_banner_01.png?raw=true"
                     ]
                 }
                 
